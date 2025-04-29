@@ -1,7 +1,6 @@
 <H3>ABDUR RAHMAN BASIL A H</H3>
 <H3>212223040002</H3>
 <H3>EX. NO.3</H3>
-<H3>27/04/2025</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
 <h3>Aim:</h3>
 To implement a perceptron for classification using Python
